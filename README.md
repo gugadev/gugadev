@@ -6,7 +6,7 @@ I'm Gustavo, frontend engineer currently working at [Globant](https://globant.co
 
 ### 🌎 Find me around the web 
 
-- Write me by email to igus.garsaky@gmail.com 
+- Write me by email to igus.garsaky@outlook.com 
 - I'm also available at [Twitter](https://twitter.com/gugadev) for DM.
 - If you're spanish native speaker, look at some of my answers at [StackOverflow Español](https://es.stackoverflow.com/users/26302/gugadev?tab=answers).
 - If you're a talent hunter, look at my [LinkedIn](https://www.linkedin.com/in/gugadev/)!
