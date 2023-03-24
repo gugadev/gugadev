@@ -6,39 +6,23 @@ I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https:/
 
 ## Languages & Frameworks
 
-<img src="images/javascript.png" width="40" />
-<img src="images/typescript.png" width="40" />
-<img src="images/dart.png" width="40" />
-<img src="images/swift.png" width="40" />
+<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/swift.png" width="40" />
 
-
-<br />
-<img src="images/flutter.png" width="40" />
-<img src="images/react.png" width="40" />
-<img src="images/angular.png" width="48" />
-<img src="images/nextjs.png" width="40" />
+<img src="images/flutter.png" width="40" /> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nextjs.png" width="40" />
 
 <br />
 
 ### Currently learning
 
-<img src="images/kotlin.png" width="40" />
-<img src="images/svelte.png" width="40" />
-<img src="images/vue.png" width="40" />
-<img src="images/qwik.png" width="40" />
+<img src="images/kotlin.png" width="40" /> <img src="images/svelte.png" width="40" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" />
 
 <br />
 
 ## Services & Tools
 
-<img src="images/firebase.png" width="32" />
-<img src="images/figma.png" width="36" />
-<img src="images/vscode.png" width="40" />
-<img src="images/webstorm.png" width="40" style="margin-left: 4px" />
-<img src="images/android-studio.png" width="44" />
+<img src="images/firebase.png" width="32" /> <img src="images/figma.png" width="36" /> <img src="images/vscode.png" width="40" /> <img src="images/webstorm.png" width="40" style="margin-left: 4px" /> <img src="images/android-studio.png" width="44" />
 <br />
-<img src="images/xcode.png" width="40" />
-<img src="images/devtools.png" width="40" />
+<img src="images/xcode.png" width="40" /> <img src="images/devtools.png" width="40" />
 
 <br />
 
@@ -48,14 +32,14 @@ I've worked on several projects, but these two are
 the ones that had more impact at social level.
 
 
-<h3 style="display: flex; align-items: center">
+<h3>
 <img src="images/minedu.jpeg" width="40" style="border-radius: 8px;" />
 <span style="margin-left: 8px;">Aprendo en Casa</span>
 </h3>
 
 Flutter (with modules developed by hand in Swift and Kotlin) application for the [Ministerio de Educación del Perú](https://www.gob.pe/minedu) that helped teachers and students to teach and study in the pandemic period.
 
-<h3 style="display: flex; align-items: center">
+<h3>
 <img src="images/tapuy.png" width="40" style="border-radius: 8px;" />
 <span style="margin-left: 8px">Tapuy</span>
 </h3>
