@@ -6,23 +6,19 @@ I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https:/
 
 ## Languages & Frameworks
 
-<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/swift.png" width="40" />
-
-<img src="images/flutter.png" width="40" /> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nextjs.png" width="40" />
+<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/swift.png" width="40" /> <img src="images/kotlin.svg" width="40" /> <img src="images/flutter.png" width="40" /> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nestjs.png" width="40" /><img src="images/nextjs.png" width="40" style="margin-left: 8px" />
 
 <br />
 
 ### Currently learning
 
-<img src="images/kotlin.png" width="40" /> <img src="images/svelte.png" width="40" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" />
+<img src="images/svelte.png" width="36" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" /><img src="images/swiftui.png" width="40" style="margin: 0 8px" /><img src="images/android.png" width="44" />
 
 <br />
 
 ## Services & Tools
 
-<img src="images/firebase.png" width="32" /> <img src="images/figma.png" width="36" /> <img src="images/vscode.png" width="40" /> <img src="images/webstorm.png" width="40" style="margin-left: 4px" /> <img src="images/android-studio.png" width="44" />
-<br />
-<img src="images/xcode.png" width="40" /> <img src="images/devtools.png" width="40" />
+<img src="images/firebase.png" width="32" /> <img src="images/figma.png" width="36" /> <img src="images/vscode.png" width="40" /> <img src="images/webstorm.png" width="40" style="margin-left: 4px" /> <img src="images/android-studio.png" width="44" /><img src="images/xcode.png" width="40" /> <img src="images/devtools.png" width="40" /><img src="images/mariadb.png" width="48" style="padding: 0 8px 0 8px" /><img src="images/mongodb.png" width="48" />
 
 <br />
 
