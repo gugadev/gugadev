@@ -40,7 +40,7 @@ Flutter (with modules developed by hand in Swift and Kotlin) application for the
 <span style="margin-left: 8px">Tapuy</span>
 </h3>
 
-Flutter & PWA application for the [national water administrator entity](https://www.gob.pe/institucion/sedapal/institucional). This application is used by people in extreme poverty to inform to SEDAPAL how much water (and in which conditions) they are receiving, as well drivers to notify people the water cistern is coming to these clanships.
+Flutter & PWA application for the [national water provider entity](https://www.gob.pe/institucion/sedapal/institucional). This application is used by people in extreme poverty to inform to SEDAPAL how much water (and in which conditions) they are receiving, as well drivers to notify people the water cistern is coming to these clanships.
 
 <br />
 
