@@ -6,7 +6,7 @@ I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https:/
 
 ## Languages & Frameworks
 
-<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/swift.png" width="40" /> <img src="images/kotlin.svg" width="40" /> <img src="images/flutter.png" width="40" /> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nestjs.png" width="40" /><img src="images/nextjs.png" width="40" style="margin-left: 8px" />
+<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" /> <img src="images/swift.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/flutter.png" width="40" /> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nestjs.png" width="40" /><img src="images/nextjs.png" width="40" style="margin-left: 8px" />
 
 <br />
 
