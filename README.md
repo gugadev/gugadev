@@ -6,19 +6,19 @@ I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https:/
 
 ## Languages & Frameworks
 
-<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" /> <img src="images/swift.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/flutter.png" width="40" /> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nestjs.png" width="40" /><img src="images/nextjs.png" width="40" style="margin-left: 8px" />
+<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" style="border-radius: 12px" /> <img src="images/swift.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/flutter.png" width="40" /> <img src="https://i.imgur.com/C3MdSQw.png" width="40"/> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nestjs.png" width="40" /> <img src="images/nextjs.png" width="40" style="margin-left: 8px" />
 
 <br />
 
 ### Currently learning
 
-<img src="images/svelte.png" width="36" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" /><img src="images/swiftui.png" width="40" style="margin: 0 8px" /><img src="images/android.png" width="44" />
+<img src="images/svelte.png" width="36" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" /> <img src="images/swiftui.png" width="40" style="margin: 0 8px" /> <img src="images/android.png" width="44" />
 
 <br />
 
 ## Services & Tools
 
-<img src="images/firebase.png" width="32" /> <img src="images/figma.png" width="36" /> <img src="images/vscode.png" width="40" /> <img src="images/webstorm.png" width="40" style="margin-left: 4px" /> <img src="images/android-studio.png" width="44" /><img src="images/xcode.png" width="40" /> <img src="images/devtools.png" width="40" /><img src="images/mariadb.png" width="48" style="padding: 0 8px 0 8px" /><img src="images/mongodb.png" width="48" />
+<img src="images/firebase.png" width="32" /> <img src="https://i.imgur.com/6Dz8duz.png" width="52" /> <img src="images/figma.png" width="36" /> <img src="images/vscode.png" width="40" /> <img src="images/webstorm.png" width="40" style="margin-left: 4px" /> <img src="images/android-studio.png" width="44" /><img src="images/xcode.png" width="40" /> <img src="images/devtools.png" width="40" /> <img src="images/mariadb.png" width="48" style="padding: 0 8px 0 8px" /> <img src="images/mongodb.png" width="48" style="padding-top: 8px" />
 
 <br />
 
@@ -34,6 +34,13 @@ the ones that had more impact at social level.
 </h3>
 
 Flutter (with modules developed by hand in Swift and Kotlin) application for the [Ministerio de Educación del Perú](https://www.gob.pe/minedu) that helped teachers and students to teach and study in the pandemic period.
+
+<h3>
+<img src="images/minedu.jpeg" width="40" style="border-radius: 8px;" />
+<span style="margin-left: 8px;">SIAGIE</span>
+</h3>
+
+Web application built on Angular for the [Ministerio de Educación del Perú](https://www.gob.pe/minedu). The official application for schools, majors/teachers to manage the education of our children. This application is used by more than 16 million people across the country.
 
 <h3>
 <img src="images/tapuy.png" width="40" style="border-radius: 8px;" />
