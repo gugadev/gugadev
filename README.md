@@ -2,23 +2,18 @@
 
 ![](https://img.shields.io/github/stars/gugadev?style=social)
 
-I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https://globant.com). I love coding, solving problems and creating new things! I like computers since I was a child, I was always fascinated about them. A bit later, I started to coding my first apps, websites and tools.Currently, I'm working on a side project that mixes technology and 🐕 .
+I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https://globant.com). I love coding, solving problems and creating new things! I like computers since I was a child, I was always fascinated about them. A bit later, I started to coding my first apps, websites and tools. Currently, I'm working on a side project that mixes technology and 🐕 .
 
 ## Languages & Frameworks
 
-<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" style="border-radius: 12px" /> <img src="images/swift.png" width="40" /> <img src="images/dart.png" width="40" /> <img src="images/flutter.png" width="40" /> <img src="https://i.imgur.com/C3MdSQw.png" width="40"/> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="images/nestjs.png" width="40" /> <img src="images/nextjs.png" width="40" style="margin-left: 8px" />
+<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" style="border-radius: 12px" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="44" /> <img src="images/flutter.png" width="40" /> <img src="https://i.imgur.com/C3MdSQw.png" width="40"/> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" /> <img src="images/nextjs.png" width="40" style="margin-left: 8px" />
 
 <br />
 
 ### Currently learning
 
-<img src="images/svelte.png" width="36" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" /> <img src="images/swiftui.png" width="40" style="margin: 0 8px" /> <img src="images/android.png" width="44" />
-
-<br />
-
-## Services & Tools
-
-<img src="images/firebase.png" width="32" /> <img src="https://i.imgur.com/6Dz8duz.png" width="52" /> <img src="images/figma.png" width="36" /> <img src="images/vscode.png" width="40" /> <img src="images/webstorm.png" width="40" style="margin-left: 4px" /> <img src="images/android-studio.png" width="44" /><img src="images/xcode.png" width="40" /> <img src="images/devtools.png" width="40" /> <img src="images/mariadb.png" width="48" style="padding: 0 8px 0 8px" /> <img src="images/mongodb.png" width="48" style="padding-top: 8px" />
+<!-- <img src="images/svelte.png" width="36" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" /> -->
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="44" height="40" /> <img src="images/android.png" width="44" /> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="44" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="44" />
 
 <br />
 
