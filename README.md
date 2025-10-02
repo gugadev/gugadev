@@ -6,7 +6,7 @@ I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https:/
 
 ## Languages & Frameworks
 
-<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" style="border-radius: 12px" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="44" /> <img src="images/flutter.png" width="40" /> <img src="https://i.imgur.com/C3MdSQw.png" width="40"/> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" /> <img src="images/nextjs.png" width="40" style="margin-left: 8px" />
+<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" style="border-radius: 12px" /> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="44" /> <img src="images/flutter.png" width="40" /> <img src="https://i.imgur.com/C3MdSQw.png" width="40"/> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" /> <img src="images/nextjs.png" width="40" style="margin-left: 8px" />
 
 <br />
 
