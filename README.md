@@ -50,6 +50,6 @@ Flutter & PWA application for the [national water provider entity](https://www.g
 
 ## Contact me!
 
-- Wanna talk? I'm available at <a href="https://twitter.com/igugadev" target="_blank"><img src="images/twitter.png" width="20" /></a> for DM.
+- Wanna talk? I'm available at <a href="https://twitter.com/gugadev" target="_blank"><img src="images/twitter.png" width="20" /></a> for DM.
 - If you're spanish native speaker, look at some of my answers at <a href="https://es.stackoverflow.com/users/26302/gugadev?tab=answers"  target="_blank"><img src="images/stackoverflow.png" width="20" /></a>.
 - Are you a talent hunter? please visit my <a href="https://www.linkedin.com/in/gugadev/"  target="_blank"><img src="images/linkedin.png" width="20" /></a>.
