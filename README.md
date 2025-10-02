@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/github/stars/gugadev?style=social)
 
+<p align="center" style="border-radius: 8px"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/22750424?s=400&u=3051aff45692010804988725efb7bcfe6340ca49&v=4&w=300&fit=cover&mask=circle&maxage=7y" height="128" width="128" style="height: 128px; width: 128px; border-radius: 8px;" /></p>
+
 I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https://globant.com). I love coding, solving problems and creating new things! I like computers since I was a child, I was always fascinated about them. A bit later, I started to coding my first apps, websites and tools. Currently, I'm working on a side project that mixes technology and 🐕 .
 
 ## Languages & Frameworks
