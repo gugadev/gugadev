@@ -4,20 +4,31 @@
 
 <p align="center" style="border-radius: 8px"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/22750424?s=400&u=3051aff45692010804988725efb7bcfe6340ca49&v=4&w=300&fit=cover&mask=circle&maxage=5y" height="128" width="128" style="height: 128px; width: 128px; border-radius: 8px;" /></p>
 
-I'm Gustavo, **Senior Frontend Engineer** currently working at [Globant](https://globant.com). I love coding, solving problems and creating new things! I like computers since I was a child, I was always fascinated about them. A bit later, I started to coding my first apps, websites and tools. Currently, I'm working on a side project that mixes technology and 🐕 .
+I'm Gustavo, **Senior Engineer** currently working at [Globant](https://globant.com). I love coding, solving problems and creating new things! I like computers since I was a child, always fascinated about how things work. A bit later, I started to coding my first apps, websites and tools. Currently, I'm working on a side project that mixes technology and 🐕 .
 
 ## Languages & Frameworks
 
-<img src="images/javascript.png" width="40" /> <img src="images/typescript.png" width="40" style="border-radius: 12px" /> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="44" /> <img src="images/flutter.png" width="40" /> <img src="https://i.imgur.com/C3MdSQw.png" width="40"/> <img src="images/react.png" width="40" /><img src="images/angular.png" width="48" /><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" /> <img src="images/nextjs.png" width="40" style="margin-left: 8px" />
-
-<br />
+- JavaScript/TypeScript
+- Node.js
+- Fastify
+- NestJS
+- GraphQL
+- Drizzle
+- Prisma
+- Angular
+- React
+- Next.js
+- Astro
+- Expo
+- Flutter
+- Docker
+- Agentic Development (OpenCode, CC, etc.)
 
 ### Currently learning
 
-<!-- <img src="images/svelte.png" width="36" /> <img src="images/vue.png" width="40" /> <img src="images/qwik.png" width="40" /> -->
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="44" height="40" /> <img src="images/android.png" width="44" /> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="44" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="44" />
-
-<br />
+- Golang
+- Java / C#
+- Google Cloud
 
 ## Featured projects
 
