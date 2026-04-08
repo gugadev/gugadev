@@ -35,32 +35,48 @@ I'm Gustavo, **Senior Engineer** currently working at [Globant](https://globant.
 I've worked on several projects, but these two are
 the ones that had more impact at social level.
 
+<table style="border: none; border-collapse: collapse;" border="0">
+  <tbody>
+    <tr>
+      <td style="border: none; border-collapse: collapse;">
+        <img src="images/minedu.jpeg" width="40" style="border-radius: 8px; vertical-align: middle;" />
+      </td>
+      <td style="border: none; border-collapse: collapse;">
+        <span>Ministerio de Educación del Perú</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h3>
-<img src="images/minedu.jpeg" width="40" style="border-radius: 8px;" />
-<span style="margin-left: 8px;">Aprendo en Casa</span>
-</h3>
+#### Aprendo en Casa
 
-Flutter (with modules developed by hand in Swift and Kotlin) application for the [Ministerio de Educación del Perú](https://www.gob.pe/minedu) that helped teachers and students to teach and study in the pandemic period.
+Application for the Peru Government that helped teachers and students to teach and study in the pandemic period at the national level. Built with NestJS and Flutter.
 
-<h3>
-<img src="images/minedu.jpeg" width="40" style="border-radius: 8px;" />
-<span style="margin-left: 8px;">SIAGIE</span>
-</h3>
+#### SIAGIE
 
-Web application built on Angular for the [Ministerio de Educación del Perú](https://www.gob.pe/minedu). The official application for schools, majors/teachers to manage the education of our children. This application is used by more than 16 million people across the country.
+Web application built on Angular for the Peru Government. The official application for schools, majors/teachers to manage the education of our children. This application is used by more than 16 million people across the country.
 
-<h3>
-<img src="images/tapuy.png" width="40" style="border-radius: 8px;" />
-<span style="margin-left: 8px">Tapuy</span>
-</h3>
+<table style="border: none; border-collapse: collapse;" border="0">
+  <tbody>
+    <tr>
+      <td style="border: none; border-collapse: collapse;">
+        <img src="https://yt3.googleusercontent.com/xnHI8-eBsG5ausmZqbrL35AQq0c_FPbq5n0KVKmd-3FFNfodC0j-WIp1Lcd97MqS8xq_pSkOPPw=s900-c-k-c0x00ffffff-no-rj" width="40" style="border-radius: 8px;" />
+      </td>
+      <td style="border: none; border-collapse: collapse;">
+        <span>SEDAPAL</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Flutter & PWA application for the [national water provider entity](https://www.gob.pe/institucion/sedapal/institucional). This application is used by people in extreme poverty to inform to SEDAPAL how much water (and in which conditions) they are receiving, as well drivers to notify people the water cistern is coming to these clanships.
+#### Tapuy
+
+Application for the [national water provider entity](https://www.gob.pe/institucion/sedapal/institucional). This application is used by people in extreme poverty to inform to SEDAPAL how much water (and in which conditions) they are receiving, as well drivers to notify people the water cistern is coming to these clanships. Built with React Native and React (Vite) for dashboard.
 
 <br />
 
 ## Contact me!
 
-- Wanna talk? I'm available at <a href="https://twitter.com/gugadev" target="_blank"><img src="images/twitter.png" width="20" /></a> for DM.
+- Wanna talk? I'm available at <a href="https://twitter.com/gugadev" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1280px-X_logo.jpg" width="20" /></a> for DM.
 - If you're spanish native speaker, look at some of my answers at <a href="https://es.stackoverflow.com/users/26302/gugadev?tab=answers"  target="_blank"><img src="images/stackoverflow.png" width="20" /></a>.
 - Are you a talent hunter? please visit my <a href="https://www.linkedin.com/in/gugadev/"  target="_blank"><img src="images/linkedin.png" width="20" /></a>.
